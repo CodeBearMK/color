@@ -1,0 +1,11 @@
+D:\cat32tw\Desktop\color\bin\Debug\color.exe.config
+D:\cat32tw\Desktop\color\bin\Debug\color.exe
+D:\cat32tw\Desktop\color\bin\Debug\color.pdb
+D:\cat32tw\Desktop\color\obj\Debug\color.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\color\obj\Debug\color.csproj.SuggestedBindingRedirects.cache
+D:\cat32tw\Desktop\color\obj\Debug\color.Form1.resources
+D:\cat32tw\Desktop\color\obj\Debug\color.Properties.Resources.resources
+D:\cat32tw\Desktop\color\obj\Debug\color.csproj.GenerateResource.cache
+D:\cat32tw\Desktop\color\obj\Debug\color.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\color\obj\Debug\color.exe
+D:\cat32tw\Desktop\color\obj\Debug\color.pdb
